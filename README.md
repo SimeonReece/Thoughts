@@ -1,0 +1,2 @@
+# Thoughts
+Thought Managment System 
